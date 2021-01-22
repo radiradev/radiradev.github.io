@@ -40,7 +40,3 @@ key: page-about
     </div>
   </div>
 </div>
-Success!
-{:.success}
-
-`success`{:.success} `info`{:.info} `warning`{:.warning} `error`{:.error}
