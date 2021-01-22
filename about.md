@@ -27,7 +27,7 @@ key: page-about
 ---
 <div class="item">
   <div class="item__image">
-    <img class="image" src="https://img.favpng.com/3/4/7/cern-logo-atlas-experiment-lhcb-experiment-research-png-favpng-dMJ6Y8bZtQ4LXWETrXbm9YMsH.jpg"/>
+    <img class="image" src="https://logos-download.com/wp-content/uploads/2016/10/CERN_logo-689x700.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
