@@ -38,7 +38,7 @@ key: page-about
         Oct 2020 -</code>
     </div>
     <div class="item__description">
-      <p>As a technical student at CERN, I am working on applying machine learning and deep learning techniques to event reconstruction for neutrino experiments. I am curerently working on deep learning model for particle counting for the DUNE experiment.</p>
+      <p>As a technical student at CERN, I am working on applying machine learning and deep learning techniques to event reconstruction for neutrino experiments. I am currently working on deep learning model for particle counting for the DUNE experiment.</p>
    </div>
   </div>
 </div>
