@@ -31,7 +31,7 @@ key: page-about
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>Photograph</h4>
+      <h4>CERN</h4>
     </div>
     <div class="item__description">
       <p>Something about me working at cern</p>
