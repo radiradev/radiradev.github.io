@@ -31,9 +31,8 @@ key: page-about
   </div>
   <div class="item__content">
     <!--more-->
-    <code class="language-plaintext success highlighter-rouge">success</code>
     <div class="item__header">
-      <h4>CERN</h4>
+      <h4>CERN</h4> <code class="language-plaintext success highlighter-rouge">success</code>
     </div>
     <div class="item__description">
       <p>Something about me working at cern</p>
