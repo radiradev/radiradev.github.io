@@ -43,6 +43,8 @@ key: page-about
 
 <div class="item">
   <div class="item__image">
+    <div class="mt-2"></div>
+    <div style="margin-top: ($spacer * .5)"></div>
     <img class="image image--xs" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0017/3547/brand.gif?itok=FAtpTzvZ"/>
   </div>
   <div class="item__content">
