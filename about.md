@@ -27,7 +27,7 @@ key: page-about
 ---
 <div class="item">
   <div class="item__image">
-    <img class="image" src="https://www.pinclipart.com/picdir/middle/352-3524410_beneficiaries-logo-cern-clipart.png"/>
+    <img class="image" src="https://img.favpng.com/3/4/7/cern-logo-atlas-experiment-lhcb-experiment-research-png-favpng-dMJ6Y8bZtQ4LXWETrXbm9YMsH.jpg"/>
   </div>
   <div class="item__content">
     <div class="item__header">
