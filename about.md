@@ -27,14 +27,14 @@ key: page-about
 ---
 <div class="item">
   <div class="item__image">
-    <img class="image" src=""/>
+    <img class="image" src="https://www.pinclipart.com/picdir/middle/352-3524410_beneficiaries-logo-cern-clipart.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
       <h4>Photograph</h4>
     </div>
     <div class="item__description">
-      <p>...</p>
+      <p>Something about me working at cern</p>
     </div>
   </div>
 </div>
