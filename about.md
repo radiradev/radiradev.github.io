@@ -35,6 +35,7 @@ key: page-about
     </div>
     <div class="item__description">
       <p>Something about me working at cern</p>
+      `info`{:.info}
     </div>
   </div>
 </div>
