@@ -51,7 +51,7 @@ key: page-about
   </div>
   <div class="item__content">
     <div class="item__header">
-      <b>Aggreko</b> <br>
+      <b>Data Science Intern</b> <br>
       <code class="language-plaintext info highlighter-rouge">
        June 2020 - Sep 2020</code>
     </div>
