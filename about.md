@@ -25,13 +25,16 @@ titles:
   # @end locale config
 key: page-about
 ---
-<div class="card">
-  <div class="card__image">
+<div class="item">
+  <div class="item__image">
     <img class="image" src=""/>
   </div>
-  <div class="card__content">
-    <div class="card__header">
+  <div class="item__content">
+    <div class="item__header">
       <h4>Photograph</h4>
+    </div>
+    <div class="item__description">
+      <p>...</p>
     </div>
   </div>
 </div>
