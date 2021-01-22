@@ -33,7 +33,7 @@ key: page-about
   </div>
   <div class="item__content">
     <div class="item__header">
-      <b>European Ogranisation for Nuclear Research (CERN) </b> <br>
+      <b>Technical Student - IT, Mathematics and Robotics </b> <br>
       <code class="language-plaintext info highlighter-rouge">
         Oct 2020 -</code>
     </div>
