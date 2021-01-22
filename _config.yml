@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Alain Hsu's Homepage 🏠
+title   : Personal Website 🏠
 description: > # this means to ignore newlines until "Language & timezone"
 
 
@@ -35,7 +35,7 @@ timezone: Asia/Shanghai
 author:
   type      : person # "person" (default), "organization"
   name      : Alain Hsu
-  url       : https://alainhsu.github.io
+  url       : https://radiradev.github.io/
   avatar    : https://i.pinimg.com/236x/4e/9b/5d/4e9b5d3b6e4c3fa736b53b21a5a8a8b0.jpg # path or url of avatar image
   bio       : Stay hungry, stay foolish🍎
   email     : alain.hsu@outlook.com
@@ -52,7 +52,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: AlainHsu/alainhsu.github.io
+repository: radiradev/radiradev.github.io
 repository_tree: master
 
 
