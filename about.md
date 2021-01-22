@@ -30,9 +30,8 @@ key: page-about
     <img class="image -" src="https://logos-download.com/wp-content/uploads/2016/10/CERN_logo-689x700.png"/>
   </div>
   <div class="item__content">
-    <!--more-->
     <div class="item__header">
-      <h4>CERN</h4> <code class="language-plaintext success highlighter-rouge">success</code>
+      <h4>CERN</h4> <code class="language-plaintext success highlighter-rouge">2020-</code>
     </div>
     <div class="item__description">
       <p>Something about me working at cern</p>
