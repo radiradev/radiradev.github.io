@@ -31,7 +31,7 @@ key: page-about
   </div>
   <div class="item__content">
     <!--more-->
-    `success`{:.success}
+    <code class="language-plaintext success highlighter-rouge">success</code>
     <div class="item__header">
       <h4>CERN</h4>
     </div>
