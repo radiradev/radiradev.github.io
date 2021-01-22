@@ -15,9 +15,11 @@ permalink: /index.html
 	<div class="landing-home" itemscope itemtype="https://schema.org/Person">		
 		<div class="main">
 			<div class="content">
-				<div class="my-photo">
-					<img itemprop="image" alt="logo" src="https://alain-hsu-blog.oss-cn-shenzhen.aliyuncs.com/head-image.png" />
-				</div>
+					<div class="card">
+					  <div class="card__image">
+					    <img class="image" src="https://alain-hsu-blog.oss-cn-shenzhen.aliyuncs.com/head-image.png"/>
+					  </div>
+					</div>
 				<h1 itemprop="name" class="title-text"> {{site.author.name}} </h1>
 
 				{% include author-links.html author=site.author %}
