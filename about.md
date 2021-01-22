@@ -27,7 +27,7 @@ key: page-about
 ---
 <div class="item">
   <div class="item__image">
-    <img class="image" src="https://logos-download.com/wp-content/uploads/2016/10/CERN_logo-689x700.png"/>
+    <img class="image -" src="https://logos-download.com/wp-content/uploads/2016/10/CERN_logo-689x700.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -35,7 +35,8 @@ key: page-about
     </div>
     <div class="item__description">
       <p>Something about me working at cern</p>
-      'info'{:.info}
+     
     </div>
   </div>
 </div>
+ 'info'{:.info}
