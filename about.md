@@ -56,7 +56,8 @@ key: page-about
        June 2020 - Sep 2020</code>
     </div>
     <div class="item__description">
-      <p>Something about me working at cern</p>
+      <p>Produced a framework for the comparison of different unsupervised anomaly detection
+        models applied to Aggreko’s time series data </p>
    </div>
   </div>
 </div>
