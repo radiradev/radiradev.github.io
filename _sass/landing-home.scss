@@ -7,7 +7,7 @@
   border-color: transparent;
   border-style: solid;
   background:
-      url(https://alain-hsu-blog.oss-cn-shenzhen.aliyuncs.com/blog-background.jpeg);
+      url(https://unsplash.com/photos/Ef6iL87-vOA/download?force=true);
   background-position: center;
   background-size: cover;
 
@@ -33,7 +33,7 @@
   .my-photo {
       display: inline-block;
       &:hover {
-          transform: rotate(360deg);
+          transform: scale(1.05, 1.05);;
       }
       img {
           display: block;
