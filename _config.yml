@@ -26,8 +26,8 @@ description: > # this means to ignore newlines until "Language & timezone"
 
 ## => Language and Timezone
 ##############################
-lang: zh
-timezone: Asia/Shanghai
+lang: en
+timezone: Europe/Paris
 
 
 ## => Author and Social
