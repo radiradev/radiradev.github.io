@@ -34,11 +34,11 @@ timezone: Europe/Paris
 ##############################
 author:
   type      : person # "person" (default), "organization"
-  name      : Alain Hsu
+  name      : Radi Radev
   url       : https://radiradev.github.io/
   avatar    : https://i.pinimg.com/236x/4e/9b/5d/4e9b5d3b6e4c3fa736b53b21a5a8a8b0.jpg # path or url of avatar image
   bio       : Stay hungry, stay foolish🍎
-  email     : alain.hsu@outlook.com
+  email     : radi.radev.uk@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
