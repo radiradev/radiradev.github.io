@@ -32,8 +32,8 @@ key: page-about
   <div class="item__content">
     <div class="item__header">
       <b>European Ogranisation for Nuclear Research (CERN) </b> <br>
-      <code class="language-plaintext success highlighter-rouge">
-        2020-</code>
+      <code class="language-plaintext info highlighter-rouge">
+        Oct 2020 -</code>
     </div>
     <div class="item__description">
       <p>Something about me working at cern</p>
@@ -48,7 +48,7 @@ key: page-about
   <div class="item__content">
     <div class="item__header">
       <b>Aggreko</b> <br>
-      <code class="language-plaintext success highlighter-rouge">
+      <code class="language-plaintext info highlighter-rouge">
        June 2020 - Sep 2020</code>
     </div>
     <div class="item__description">
