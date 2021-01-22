@@ -31,7 +31,7 @@ key: page-about
   </div>
   <div class="item__content">
     <div class="item__header">
-      <b>European Ogranisation for Nuclear Research (CERN) <code class="language-plaintext success highlighter-rouge">2020-</code> 
+      <b>European Ogranisation for Nuclear Research (CERN) <code class="language-plaintext success highlighter-rouge">2020-</code> </b>
     </div>
     <div class="item__description">
       <p>Something about me working at cern</p>
