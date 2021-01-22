@@ -1,5 +1,6 @@
 ---
 layout: article
+comments: false
 titles:
   # @start locale config
   en      : &EN       About Me
