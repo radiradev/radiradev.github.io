@@ -27,7 +27,7 @@ key: page-about
 ---
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="https://logos-download.com/wp-content/uploads/2016/10/CERN_logo-689x700.png"/>
+    <img class="image image--xs" src="https://logos-download.com/wp-content/uploads/2016/10/CERN_logo-689x700.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -43,7 +43,7 @@ key: page-about
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0017/3547/brand.gif?itok=FAtpTzvZ"/>
+    <img class="image image--xs" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0017/3547/brand.gif?itok=FAtpTzvZ"/>
   </div>
   <div class="item__content">
     <div class="item__header">
