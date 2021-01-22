@@ -30,6 +30,7 @@ key: page-about
     <img class="image -" src="https://logos-download.com/wp-content/uploads/2016/10/CERN_logo-689x700.png"/>
   </div>
   <div class="item__content">
+    <!--more-->
     `success`{:.success}
     <div class="item__header">
       <h4>CERN</h4>
