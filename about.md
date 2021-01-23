@@ -84,7 +84,8 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
         Oct 2020 -</code>
     </div>
     <div class="item__description">
-      <p>As a technical student at CERN, I am working on applying machine learning and deep learning techniques to event reconstruction for neutrino experiments. I am currently working on deep learning model for particle counting for the DUNE experiment.</p>
+      <p>Courses Include: : Machine Learning for Data Analytics, Big Data Technologies, Image and
+Video Processing, Digital Signal Processing, Autonomous Sensing and Deep Learning</p>
    </div>
   </div>
 </div>
@@ -102,8 +103,9 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
        June 2020 - Sep 2020</code>
     </div>
     <div class="item__description">
-      <p>Produced a framework for the comparison of different unsupervised anomaly detection
-        models applied to Aggreko’s time series data </p>
+      <p>Courses Include: Probability, Mathematical Modelling, Nonlinear Dynamics and Chaos Theory,
+Computer Programming and Principles, Advanced Calculus, Web Technology, Research and
+Computing Skills</p>
    </div>
   </div>
 </div>
