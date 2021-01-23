@@ -127,6 +127,15 @@ input[type="email"], select {
   border-radius: 4px;
   box-sizing: border-box;
 }
+input[type="name"], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
 
 textarea[name="message"], select {
   width: 100%;
@@ -139,19 +148,19 @@ textarea[name="message"], select {
   box-sizing: border-box;
 }
 button[type=submit] {
-  width: 100%;
-  centering: true;
-  background-color: #6fb9fc;
+  width: 20%;
+  background-color: #1890ff;
   color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
+  padding: 12px 20px;
+  margin: 0px 0;
   border: none;
   border-radius: 4px;
   cursor: pointer;
 }
 
+
 button[type=submit]:hover {
-  background-color: #6fb9f0;
+  background-color: #1890f0;
 }
 
 #contact-form{
@@ -163,6 +172,7 @@ button[type=submit]:hover {
 <div id="contact-form">
         <form action="https://formspree.io/f/xknpyqnq" method="POST">
         <input type="hidden" name="_subject" value="Contact request from personal website" />
+        <input type="name" name="name" placeholder"Your Name">
         <input type="email" name="_replyto" placeholder="Your email" required>
         <textarea name="message" placeholder="Type your message" required></textarea>
         <button type="submit">Send</button>
