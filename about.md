@@ -141,7 +141,7 @@ textarea[name="message"], select {
 button[type=submit] {
   width: 100%;
   centering: true;
-  background-color: ##8cc8ff;
+  background-color: #6fb9fc;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -151,7 +151,7 @@ button[type=submit] {
 }
 
 button[type=submit]:hover {
-  background-color: #8cc8f0;
+  background-color: #6fb9f0;
 }
 
 #contact-form{
