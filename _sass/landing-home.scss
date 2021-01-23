@@ -16,15 +16,12 @@
       box-sizing: border-box;
       text-align: center;
       vertical-align: middle;
-      animation: fade-in .8s;
+      animation: fade-in-top .8s;
       h1, body, {
           font-size: 3.5rem;
           margin: 0;
           color: $text-color-theme-dark-d;
-          font-family: "Yanone Kaffeesatz", sans-serif;
-          p {
-            font-size: 2rem;
-        }
+          font-family: "Yanone Kaffeesatz", sans-serif
       }
   }   
   
