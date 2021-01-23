@@ -75,7 +75,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--xs" src="https://globalcampus.co.in/wp-content/uploads/2019/04/100-1005585_expository-essay-planning-map-for-grace-glasgow-strathclyde.jpg"/>
+    <img class="image image--xs" src="https://usercontent.one/wp/www.h2020hydroflex.eu/wp-content/uploads/2018/07/Stratchlyde-logo-following-rule-400x302.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
