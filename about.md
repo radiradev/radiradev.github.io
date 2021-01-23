@@ -94,7 +94,7 @@ Video Processing, Digital Signal Processing, Autonomous Sensing and Deep Learnin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--sm" src="https://raw.githubusercontent.com/radiradev/radiradev.github.io/master/assets/images/logo/logo-dark-aberdeen.png"/>
+    <img class="image image--sm" src="https://raw.githubusercontent.com/radiradev/radiradev.github.io/master/assets/images/logo/logo-white-stacked.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
