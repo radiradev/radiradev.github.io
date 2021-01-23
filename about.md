@@ -75,13 +75,13 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--xs" src="https://logos-download.com/wp-content/uploads/2016/10/CERN_logo-689x700.png"/>
+    <img class="image image--xs" src="https://globalcampus.co.in/wp-content/uploads/2019/04/100-1005585_expository-essay-planning-map-for-grace-glasgow-strathclyde.jpg"/>
   </div>
   <div class="item__content">
     <div class="item__header">
       <b>MSc Machine Learning & Deep Learning</b> <br>
       <code class="language-plaintext info highlighter-rouge">
-        Oct 2020 -</code>
+        2019 - 2020</code>
     </div>
     <div class="item__description">
       <p>Courses Include: Machine Learning for Data Analytics, Big Data Technologies, Image and
@@ -94,13 +94,13 @@ Video Processing, Digital Signal Processing, Autonomous Sensing and Deep Learnin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--xs" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Aggreko_logo.svg"/>
+    <img class="image image--xs" src="https://banner2.cleanpng.com/20180519/oou/kisspng-university-of-aberdeen-education-campus-teacher-5b00375d51ab94.5344233215267408293345.jpg"/>
   </div>
   <div class="item__content">
     <div class="item__header">
       <b>BSc Physics</b> <br>
       <code class="language-plaintext info highlighter-rouge">
-       June 2020 - Sep 2020</code>
+       2015 - 2019</code>
     </div>
     <div class="item__description">
       <p>Courses Include: Probability, Mathematical Modelling, Nonlinear Dynamics and Chaos Theory,
