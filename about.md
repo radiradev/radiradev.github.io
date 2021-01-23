@@ -1,6 +1,8 @@
 ---
 layout: article
 comments: false
+mathjax: false
+pageview: false
 titles:
   # @start locale config
   en      : &EN       About Me
