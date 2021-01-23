@@ -17,10 +17,10 @@ theme: jekyll-text-theme
 ## => Site Settings
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Personal Website 🏠
+title   : Radi Radev
 description: > # this means to ignore newlines until "Language & timezone"
 
 
@@ -36,8 +36,8 @@ author:
   type      : person # "person" (default), "organization"
   name      : Radi Radev
   url       : https://radiradev.github.io/
-  avatar    : https://i.pinimg.com/236x/4e/9b/5d/4e9b5d3b6e4c3fa736b53b21a5a8a8b0.jpg # path or url of avatar image
-  bio       : Stay hungry, stay foolish🍎
+  avatar    : https://github.com/radiradev/radiradev.github.io/blob/master/assets/images/logo/image.jpg # path or url of avatar image
+  bio       : I am a Technical Student in ML working at CERN
   email     : radi.radev.uk@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
