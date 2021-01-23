@@ -28,11 +28,8 @@ titles:
   # @end locale config
 key: page-about
 ---
-
 I am currently working at CERN, where I apply my knowledge in Physics and Machine Learning I gained during my time at university. 
-
-<br>
-<b>Work Experience</b>
+<h2>Work Experience</h2>
 <div class="item">
   <div class="item__image">
     <div class="mt-2"></div>
@@ -68,9 +65,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
    </div>
   </div>
 </div>
-<br>
-
-<b>Education</b>
+<h2>Education</h2>
 
 <div class="item">
   <div class="item__image">
