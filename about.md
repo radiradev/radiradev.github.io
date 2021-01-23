@@ -75,7 +75,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--sm" src="https://radiradev.github.io/assets/images/logo/Strath_edu.png"/>
+    <img class="image image--sm" src="https://raw.githubusercontent.com/radiradev/radiradev.github.io/master/assets/images/logo/Strath_edu.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
