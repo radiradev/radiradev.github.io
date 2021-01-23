@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 comments: false
 titles:
   # @start locale config
