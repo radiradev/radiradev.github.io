@@ -62,8 +62,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
        June 2020 - Sep 2020</code>
     </div>
     <div class="item__description">
-      <p>Produced a framework for the comparison of different unsupervised anomaly detection
-        models applied to Aggreko’s time series data </p>
+      <p>I completed my MSc placement in the Advanced Analytics team at Aggreko based in Glasgow. I worked on producing a methodology for the comparison of different unsupervised anomaly detection models applied to Aggreko’s time series data </p>
    </div>
   </div>
 </div>
