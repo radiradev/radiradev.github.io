@@ -35,7 +35,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--xs" src="https://radiradev.github.io/assets/images/logo/CERN_logo.png"/>
+    <img class="image image--sm" src="https://radiradev.github.io/assets/images/logo/CERN_logo.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -53,7 +53,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--xs" src="https://radiradev.github.io/assets/images/logo/kisspng-logo-aggreko-brand-product-font-sponsors-gold-coast-2-18-5bac729bd912e9.7289990015380281878891 (1).png"/>
+    <img class="image image--sm" src="https://radiradev.github.io/assets/images/logo/kisspng-logo-aggreko-brand-product-font-sponsors-gold-coast-2-18-5bac729bd912e9.7289990015380281878891 (1).png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -75,7 +75,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--xs" src="https://radiradev.github.io/assets/images/logo/Strath_edu.png"/>
+    <img class="image image--sm" src="https://radiradev.github.io/assets/images/logo/Strath_edu.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -94,7 +94,7 @@ Video Processing, Digital Signal Processing, Autonomous Sensing and Deep Learnin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--xs" src="https://radiradev.github.io/assets/images/logo/logo-dark-aberdeen.png"/>
+    <img class="image image--sm" src="https://radiradev.github.io/assets/images/logo/logo-dark-aberdeen.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
