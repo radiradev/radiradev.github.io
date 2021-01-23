@@ -81,7 +81,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
   </div>
   <div class="item__content">
     <div class="item__header">
-      <b>Technical Student - IT, Mathematics and Robotics </b> <br>
+      <b>MSc Machine Learning & Deep Learning</b> <br>
       <code class="language-plaintext info highlighter-rouge">
         Oct 2020 -</code>
     </div>
@@ -99,7 +99,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
   </div>
   <div class="item__content">
     <div class="item__header">
-      <b>Data Science Intern</b> <br>
+      <b>BSc Physics</b> <br>
       <code class="language-plaintext info highlighter-rouge">
        June 2020 - Sep 2020</code>
     </div>
