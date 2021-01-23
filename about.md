@@ -148,10 +148,10 @@ textarea[name="message"], select {
   box-sizing: border-box;
 }
 button[type=submit] {
-  width: 20%;
+  width: 130px;
   background-color: #1890ff;
   color: white;
-  padding: 12px 20px;
+  padding: 6px 6px;
   margin: 0px 0;
   border: none;
   border-radius: 4px;
