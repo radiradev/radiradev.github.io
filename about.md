@@ -28,9 +28,11 @@ titles:
   # @end locale config
 key: page-about
 ---
+
 I am currently working at CERN, where I apply my knowledge in Physics and Machine Learning I gained during my time at university. 
 
-<h2> Work Experience </h2>
+<br>
+<b>Work Experience</b>
 <div class="item">
   <div class="item__image">
     <div class="mt-2"></div>
@@ -66,8 +68,9 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
    </div>
   </div>
 </div>
+<br>
 
-<h2>Education</h2>
+<b>Education</b>
 
 <div class="item">
   <div class="item__image">
@@ -108,6 +111,40 @@ Computing Skills</p>
   </div>
 </div>
 <br>
+
+<style>
+input[type=email], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+
 
 
 <div id="contact">
