@@ -27,7 +27,7 @@ titles:
 key: page-about
 ---
 
-I am Radi Radev. I am currently working at CERN, where I apply my knowledge in Physics and Machine Learning I gained during my time at university. 
+I am currently working at CERN, where I apply my knowledge in Physics and Machine Learning I gained during my time at university. 
 <div class="item">
   <div class="item__image">
     <div class="mt-2"></div>
