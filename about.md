@@ -43,7 +43,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
         Oct 2020 -</code>
     </div>
     <div class="item__description">
-      <p>As a technical student at CERN, I am working on applying machine learning and deep learning techniques to event reconstruction for neutrino experiments. I am currently working on deep learning model for particle counting for the DUNE experiment.</p>
+      <p>As a technical student at CERN, I am working on applying machine learning and deep learning techniques to event reconstruction for neutrino experiments. I am currently working on a deep learning model for particle counting for the DUNE experiment.</p>
    </div>
   </div>
 </div>
@@ -71,7 +71,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--sm" src="//logo.clearbit.com/strath.ac.uk?size=124&greyscale=true"/>
+    <img class="image image--sm" src="https://raw.githubusercontent.com/radiradev/radiradev.github.io/master/assets/images/logo/Strath_edu.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
