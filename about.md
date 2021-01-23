@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 comments: false
 mathjax: false
 pageview: false
