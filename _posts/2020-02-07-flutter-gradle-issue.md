@@ -2,7 +2,6 @@
 layout: article
 title: Flutter 关于 Android Gradle 的配置问题
 key: flutter-gradle-issue
-author: Alain Hsu
 show_author_profile: true
 sharing: true
 tags: ["Flutter", "Gradle"]
