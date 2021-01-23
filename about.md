@@ -32,7 +32,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
 <br>
 <br>
 
-
+<div class="card">
 <b>Work Experience</b>
 <div class="item">
   <div class="item__image">
@@ -70,7 +70,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
    </div>
   </div>
 </div>
-
+</div>
 <br>
 <br>
 
