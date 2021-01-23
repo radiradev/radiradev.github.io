@@ -84,7 +84,7 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
         Oct 2020 -</code>
     </div>
     <div class="item__description">
-      <p>Courses Include: : Machine Learning for Data Analytics, Big Data Technologies, Image and
+      <p>Courses Include: Machine Learning for Data Analytics, Big Data Technologies, Image and
 Video Processing, Digital Signal Processing, Autonomous Sensing and Deep Learning</p>
    </div>
   </div>
