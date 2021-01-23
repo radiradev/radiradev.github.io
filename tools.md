@@ -2,6 +2,7 @@
 layout: article
 title: Tools
 lang: en
+comment: false
 key: useful-tools
 modify_date: 2019-10-22
 pageview: false
