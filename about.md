@@ -118,8 +118,19 @@ input[type="email"], select {
   box-sizing: border-box;
 }
 
+input[type="email"], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
 textarea[name="message"], select {
   width: 100%;
+  height: 170px;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
@@ -129,7 +140,8 @@ textarea[name="message"], select {
 }
 button[type=submit] {
   width: 100%;
-  background-color: #4CAF50;
+  centering: true;
+  background-color: #1890ff;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -138,14 +150,13 @@ button[type=submit] {
   cursor: pointer;
 }
 
-input[type=submit]:hover {
-  background-color: #45a049;
+button[type=submit]:hover {
+  background-color: #1890f0;
 }
 
 #contact-form{
   border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
+  padding: 10px;
 }
 </style>
 
