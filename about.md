@@ -112,49 +112,13 @@ Computing Skills</p>
 </div>
 <br>
 
-<style>
-input[type=email], select {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-}
+<h2>Get in Touch</h2>
+<div id="contact-form">
+        <form action="https://formspree.io/f/xknpyqnq" method="POST">
+        <input type="hidden" name="_subject" value="Contact request from personal website" />
+        <input type="email" name="_replyto" placeholder="Your email" required>
+        <textarea name="message" placeholder="Type your message" required></textarea>
+        <button type="submit">Send</button>
+    </form>
+</div>
 
-input[type=submit] {
-  width: 100%;
-  background-color: #4CAF50;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-button[type=submit]:hover {
-  background-color: #45a049;
-}
-
-div {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-</style>
-
-
-
-<div id="contact">
-        <h2>Get in Touch</h2>
-        <div id="contact-form">
-                <form action="https://formspree.io/f/xknpyqnq" method="POST">
-                <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Type your message" required></textarea>
-                <button type="submit">Send</button>
-            </form>
-        </div>
-  </div>
