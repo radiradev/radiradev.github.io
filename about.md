@@ -105,8 +105,6 @@ Computing Skills</p>
    </div>
   </div>
 </div>
-<br>
-
 <h2>Get in Touch</h2>
 <div id="contact-form">
         <form action="https://formspree.io/f/xknpyqnq" method="POST">
