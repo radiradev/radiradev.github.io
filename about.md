@@ -94,7 +94,7 @@ Video Processing, Digital Signal Processing, Autonomous Sensing and Deep Learnin
   <div class="item__image">
     <div class="mt-2"></div>
     <div style="margin-top: ($spacer)"></div>
-    <img class="image image--xs" src="https://banner2.cleanpng.com/20180519/oou/kisspng-university-of-aberdeen-education-campus-teacher-5b00375d51ab94.5344233215267408293345.jpg"/>
+    <img class="image image--xs" src="https://radiradev.github.io/assets/images/logo/kisspng-university-of-aberdeen-education-campus-teacher-5b00375d8f21c8.1901084515267408295863.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
