@@ -27,10 +27,11 @@ titles:
 key: page-about
 ---
 
-Work Experience
-{:.info}
-
 I am currently working at CERN, where I apply my knowledge in Physics and Machine Learning I gained during my time at university. 
+
+</br> </br>
+
+<b>Work Experience</b>
 <div class="item">
   <div class="item__image">
     <div class="mt-2"></div>
@@ -68,5 +69,6 @@ I am currently working at CERN, where I apply my knowledge in Physics and Machin
   </div>
 </div>
 
-Education
-{:.info}
+</br> </br>
+
+<b>Education</b>
