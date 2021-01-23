@@ -1,6 +1,6 @@
 ---
 layout: base
-comments: false
+comment: false
 mathjax: false
 pageview: false
 titles:
