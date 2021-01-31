@@ -25,31 +25,73 @@ permalink: /index.html
 			height: 100vh;
 		}
 		
-		/*! CSS Used from: https://www.vantajs.com/gallery/reset.css */
-		h1,h3{margin:0;padding:0;border:0;font-size:100%;font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color:white;}
-		@media only screen and (min-width: 728px){
-		.container{position:relative;width:100%;margin:0 auto;padding:0;}
-		.container .columns{float:left;display:inline;margin-left:1.25%;margin-right:1.25%;}
-		.container .eight.columns{width:47.4666666%; margit-top: 50%}
-		}
-		@media only screen and (max-width: 727px){
-		.container{position:relative;width:100%;margin:0 auto;padding:0;}
-		.container .columns{float:left;display:inline;margin-left:2.5%;margin-right:2.5%;}
-		.container .eight.columns{width:95%;}
-		}
-		h1{font-size:72px;margin-bottom:15px;letter-spacing:-2px;}
-		h3{font-size:1.5em;line-height:1.25;}
-		h1,h3{font-weight:400;}
-		@media (max-width: 727px){
-		h1{font-size:48px;}
-		h3{font-size:1.25em;}
-		}
-		.btn{color:inherit;display:inline-block;margin-top:20px;text-decoration:none;padding:10px 15px;border-radius:5px;border:2px solid;cursor:pointer;font-size:1.2em;font-weight:bold;transition:all 0.1s;user-select:none;}
-		.btn:hover{background:rgba(0, 0, 0, 0.2);}
-		.container{max-width:1200px;}
-		.inner{position:relative;z-index:1;text-align:left;max-width:1500px;}
-		::-moz-selection{background:#9463dd;color:white;}
-		::selection{background:#9463dd;color:white;}
+		/*! CSS Used from: https://tianqi.name/jekyll-TeXt-theme/assets/css/main.css */
+.clearfix::after{display:table;clear:both;content:"";}
+.hero--dark h1{color:#fff;}
+*,::before,::after{box-sizing:border-box;-webkit-tap-highlight-color:rgba(0, 0, 0, 0);}
+body ::-moz-selection{background:rgba(252, 77, 80, 0.5);}
+body ::-webkit-selection{background:rgba(252, 77, 80, 0.5);}
+body ::selection{background:rgba(252, 77, 80, 0.5);}
+h1,p,ul{padding:0;margin:0.5rem 0;}
+h1{font-weight:700;}
+h1{font-size:2.5rem;color:#000;}
+@media (max-width: 499px){
+h1{font-size:2rem;}
+}
+.hero h1{font-size:3.5rem;}
+.hero p{font-size:1.5rem;}
+@media (max-width: 1023px){
+.hero h1{font-size:3rem;}
+.hero p{font-size:1.25rem;}
+}
+@media (max-width: 499px){
+.hero h1{font-size:2rem;}
+.hero p{font-size:1rem;}
+}
+.hero__content{margin:3rem;}
+@media (max-width: 1023px){
+.hero__content{margin:3rem 1.5rem;}
+}
+@media (max-width: 499px){
+.hero__content{margin:1.5rem 1rem;}
+}
+.menu{display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-moz-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-top:0;margin-bottom:0;-webkit-box-direction:normal;-webkit-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center;}
+.menu > li{margin-top:0.25rem;margin-bottom:0.25rem;margin-right:0.25rem;list-style-type:none;}
+.menu > li:last-child{margin-right:0;}
+.main{width:100%;max-width:950px;padding:0 3rem;margin:0 auto;}
+@media (max-width: 1023px){
+.main{padding:0 1.5rem;}
+}
+@media (max-width: 499px){
+.main{padding:0 1rem;}
+}
+.article__info{font-size:0.85rem;color:#888;}
+.article__info .right-col{float:right;margin-left:0.5rem;}
+@media (max-width: 499px){
+.article__info .right-col{float:none;}
+}
+.article__header{margin-top:3rem;margin-bottom:1.5rem;}
+@media (max-width: 499px){
+.article__header{margin-top:1.5rem;}
+}
+.article__header header,.article__header h1{display:inline;}
+.article__header h1{word-wrap:break-word;}
+.article__header--overlay .overlay__excerpt{font-size:2rem;font-weight:700;}
+@media (max-width: 1023px){
+.article__header--overlay .overlay__excerpt{font-size:1.75rem;}
+}
+@media (max-width: 499px){
+.article__header--overlay .overlay__excerpt{font-size:1.35rem;}
+}
+.article__header--overlay .article__header{margin-top:0;}
+.hero--dark .article__info{color:rgba(255, 255, 255, 0.95);}
+/*! CSS Used from: https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.css */
+.far{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1;}
+.fa-calendar-alt:before{content:"\f073";}
+.far{font-family:'Font Awesome 5 Free';font-weight:400;}
+/*! CSS Used fontfaces */
+@font-face{font-family:'Font Awesome 5 Free';font-style:normal;font-weight:400;font-display:block;src:url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.eot");src:url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.eot#iefix") format("embedded-opentype"), url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.woff2") format("woff2"), url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.woff") format("woff"), url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.ttf") format("truetype"), url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.svg#fontawesome") format("svg");}
+@font-face{font-family:'Font Awesome 5 Free';font-style:normal;font-weight:900;font-display:block;src:url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.eot");src:url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.eot#iefix") format("embedded-opentype"), url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.woff2") format("woff2"), url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.woff") format("woff"), url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.ttf") format("truetype"), url("https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.svg#fontawesome") format("svg");}
 	</style>
 </head>
 <body>
@@ -68,13 +110,8 @@ permalink: /index.html
 				</div>
 			</div>
 		</div>	 -->
-		<div class="container inner">		
-	      		<div class="eight columns">
-				<h1> Vanta.js </h1>
-		      		<h3> Animated website backgrounds in a few lines of code. </h3>
-    			</div>
-		
-		</div>
+		<div class="hero__content"><div class="main"><div class="article__info clearfix">
+		</div><div class="article__header"><header><h1>Page - Article Header Overlay Background Image (Customized Header Background)</h1></header></div><p class="overlay__excerpt">A post has an article header overlay with a background image width customized header background.</p></div></div>
 	</div>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.fog.min.js"></script>
