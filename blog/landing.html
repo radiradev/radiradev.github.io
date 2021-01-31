@@ -10,6 +10,7 @@ excerpt: >
 
 permalink: /index.html
 ---
+
 {% include analytics.html %}
 
 
@@ -27,22 +28,20 @@ permalink: /index.html
 </head>
 <body>
 	<div id="vanta-canvas">
-	<div class="landing-home" itemscope itemtype="https://schema.org/Person">		
-		<div class="main">
-			<div class="content">
-				<h1 itemprop="name" class="title-text"> Hi! I'm {{site.author.name}} </h1>
-				<p> Machine Learning :chart_with_upwards_trend: Data Science :bar_chart: Physics</p>
-				<br>
-				{% include author-links.html author=site.author %}
-				<br>
-				<a class="button--rounded button--theme-dark button-lg" title="Visit my blog" itemprop="url" href="/blog" target="_self">Visit my blog</a>
-				&nbsp;
-				<a class="button--rounded button--theme-dark button-lg" title="About me" itemprop="url" href="/about.html" target="_self">About me</a>
+		<div class="landing-home" itemscope itemtype="https://schema.org/Person">		
+			<div class="main">
+				<div class="content">
+					<h1 itemprop="name" class="title-text"> Hi! I'm {{site.author.name}} </h1>
+					<p> Machine Learning :chart_with_upwards_trend: Data Science :bar_chart: Physics</p>
+					<br>
+					{% include author-links.html author=site.author %}
+					<br>
+					<a class="button--rounded button--theme-dark button-lg" title="Visit my blog" itemprop="url" href="/blog" target="_self">Visit my blog</a>
+					&nbsp;
+					<a class="button--rounded button--theme-dark button-lg" title="About me" itemprop="url" href="/about.html" target="_self">About me</a>
+				</div>
 			</div>
-		</div>
-	</div>
-	
-	
+		</div>	
 	</div>
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
