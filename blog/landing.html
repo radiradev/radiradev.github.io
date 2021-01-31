@@ -11,13 +11,16 @@ excerpt: >
 permalink: /index.html
 ---
 {% include analytics.html %}
-<body>
+<style type="text/css">
+	#vanta-canvas: {
+		width: 100%;
+		height: 100vh;
+	}
+</style>
+<!-- <body>
 	<div class="landing-home" itemscope itemtype="https://schema.org/Person">		
 		<div class="main">
 			<div class="content">
-<!-- 					<div class="my-photo">
-					<img itemprop="image" alt="logo" src="https://radiradev.github.io/assets/images/logo/image.jpg" />
-				</div> -->
 				<h1 itemprop="name" class="title-text"> Hi! I'm {{site.author.name}} </h1>
 				<p> Machine Learning :chart_with_upwards_trend: Data Science :bar_chart: Physics</p>
 				<br>
@@ -29,7 +32,33 @@ permalink: /index.html
 			</div>
 		</div>
 	</div>
+</body> -->
+
+<body>
+	<div id="vanta-canvas"></div> 
+
 </body>
+
+<script src="three.r119.min.js"></script>
+<script src="vanta.fog.min.js"></script>
+<script>
+VANTA.FOG({
+  el: "#vanta-canvas ",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00,
+  highlightColor: 0x9406c3,
+  midtoneColor: 0x6303f5,
+  lowlightColor: 0xbd00dc,
+  baseColor: 0xf205f2,
+  blurFactor: 0.90,
+  speed: 1.10,
+  zoom: 0.40
+})
+</script>
+
 
 <script>
 	{%- include scripts/common.js -%}
