@@ -51,22 +51,22 @@ permalink: /index.html
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.waves.min.js"></script>
-	<script type="text/javascript">
-		VANTA.WAVES({
-		  el: "#vanta-canvas",
-		  mouseControls: true,
-		  touchControls: true,
-		  gyroControls: false,
-		  minHeight: 200.00,
-		  minWidth: 200.00,
-		  scale: 1.00,
-		  scaleMobile: 1.00,
-		  color: 0x427f,
-		  shininess: 44.00,
-		  waveHeight: 32.00,
-		  waveSpeed: 1.05,
-		  zoom: 1.23
-		})
+	<script>
+	VANTA.FOG({
+	  el: "#vanta-canvas",
+	  mouseControls: true,
+	  touchControls: true,
+	  gyroControls: false,
+	  minHeight: 200.00,
+	  minWidth: 200.00,
+	  highlightColor: 0x9406c3,
+	  midtoneColor: 0x6303f5,
+	  lowlightColor: 0xbd00dc,
+	  baseColor: 0xf205f2,
+	  blurFactor: 0.90,
+	  speed: 0.50,
+	  zoom: 0.40
+	})
 	</script>
 </body>
 
