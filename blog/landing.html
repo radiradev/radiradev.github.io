@@ -24,11 +24,38 @@ permalink: /index.html
 			width: 100%;
 			height: 100vh;
 		}
+		
+				/*! CSS Used from: https://www.vantajs.com/gallery/reset.css */
+		h1,h3{margin:0;padding:0;border:0;font-size:100%;font-family:inherit;}
+		/*! CSS Used from: https://www.vantajs.com/gallery/styles.css */
+		@media only screen and (min-width: 728px){
+		.container{position:relative;width:100%;margin:0 auto;padding:0;}
+		.container .columns{float:left;display:inline;margin-left:1.25%;margin-right:1.25%;}
+		.container .eight.columns{width:47.4666666%;}
+		}
+		@media only screen and (max-width: 727px){
+		.container{position:relative;width:100%;margin:0 auto;padding:0;}
+		.container .columns{float:left;display:inline;margin-left:2.5%;margin-right:2.5%;}
+		.container .eight.columns{width:95%;}
+		}
+		h1{font-size:72px;margin-bottom:15px;letter-spacing:-2px;}
+		h3{font-size:1.5em;line-height:1.25;}
+		h1,h3{font-weight:400;}
+		@media (max-width: 727px){
+		h1{font-size:48px;}
+		h3{font-size:1.25em;}
+		}
+		.btn{color:inherit;display:inline-block;margin-top:20px;text-decoration:none;padding:10px 15px;border-radius:5px;border:2px solid;cursor:pointer;font-size:1.2em;font-weight:bold;transition:all 0.1s;user-select:none;}
+		.btn:hover{background:rgba(0, 0, 0, 0.2);}
+		.container{max-width:1200px;}
+		.inner{position:relative;z-index:1;text-align:left;max-width:1500px;}
+		::-moz-selection{background:#9463dd;color:white;}
+		::selection{background:#9463dd;color:white;}
 	</style>
 </head>
 <body>
 	<div id="vanta-canvas">
-		<div class="landing-home" itemscope itemtype="https://schema.org/Person">		
+<!-- 		<div class="landing-home" itemscope itemtype="https://schema.org/Person">		
 			<div class="main">
 				<div class="content">
 					<h1 itemprop="name" class="title-text"> Hi! I'm {{site.author.name}} </h1>
@@ -41,9 +68,15 @@ permalink: /index.html
 					<a class="button--rounded button--theme-dark button-lg" title="About me" itemprop="url" href="/about.html" target="_self">About me</a>
 				</div>
 			</div>
-		</div>	
+		</div>	 -->
+		<div class="container inner">		
+	      		<div class="eight columns">
+				<h1> Vanta.js </h1>
+		      		<h3> Animated website backgrounds in a few lines of code. </h3>
+    			</div>
+		
+		</div>
 	</div>
-
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.fog.min.js"></script>
 	<script type="text/javascript">
