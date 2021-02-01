@@ -10,7 +10,7 @@
 		@include vendor('transition', 'opacity #{_duration(bg-fadein)} ease-in-out');
 		height: 100%;
 		left: 0;
-		opacity: 0.6;
+		opacity: 1;
 		position: fixed;
 		top: 0;
 		width: 100%;
