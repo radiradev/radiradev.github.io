@@ -28,7 +28,8 @@ titles:
   # @end locale config
 key: page-about
 ---
-I am currently working at CERN, where I apply my knowledge in Physics and Machine Learning I gained during my time at university. 
+
+I am working at CERN, applying my knowledge in Physics and Machine Learning I gained during my time at university. I am part of the [Netrino Group](https://ep-dep.web.cern.ch/organisation/nu). My current work is on a CNN based model for the far detector of the Deep Underground Neutrino Experiment [(DUNE)](https://www.dunescience.org/), extending on the [DUNE CVN](https://github.com/DUNE/dune-cvn) model. 
 <h2>Work Experience</h2>
 <div class="item">
   <div class="item__image">
