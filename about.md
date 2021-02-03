@@ -28,6 +28,9 @@ titles:
   # @end locale config
 key: page-about
 ---
+<style> a, a:link, a:visited {
+    color: #00a0fd; } 
+</style>
 
 I am working at CERN, applying my knowledge in Physics and Machine Learning I gained during my time at university. I am part of the [Netrino Group](https://ep-dep.web.cern.ch/organisation/nu). My current work is on a CNN based model for the far detector of the Deep Underground Neutrino Experiment [(DUNE)](https://www.dunescience.org/), extending on the [DUNE CVN](https://github.com/DUNE/dune-cvn) model. 
 <h2>Work Experience</h2>
