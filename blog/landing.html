@@ -29,9 +29,7 @@ permalink: /index.html
   display: -ms-flex;
   display: flex;
   position: relative; }
-  #button-div input[type="text"],
-  #button-div input[type="password"],
-  #button-div input[type="email"] {
+  #button-div #button{
     width: 18em; }
   #button-div > * {
     margin: 0 0 0 1em; }
@@ -43,9 +41,7 @@ permalink: /index.html
       -webkit-flex-direction: column;
       -ms-flex-direction: column;
       flex-direction: column; }
-      #button-div input[type="type"],
-      #button-div input[type="password"],
-      #button-div input[type="email"] {
+      #button-div #button{
         width: 100%; }
       #button-div > * {
         margin: 1.25em 0 0 0; }
@@ -65,8 +61,8 @@ permalink: /index.html
 		
 		<!-- Signup Form -->
 			<div id="button-div">
-				<input type="button" value="About Me"><a href="https://radiradev.github.io/about/"></a></input>
-				<input type="button" value="Blog"><a href="https://radiradev.github.io/blog/"></a></input>
+				<input type="button" value="About Me"><a id="button" href="https://radiradev.github.io/about/">About Me</a><
+				<input type="button" value="Blog"><a id="button" href="https://radiradev.github.io/blog/">Blog</a>
 			</div>
 					   
 
