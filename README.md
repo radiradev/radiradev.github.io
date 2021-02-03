@@ -1,4 +1,4 @@
-# Radi Radev's Personal Website
+# My Personal Website
 
 Blog made using Jekyll theme [TeXt](https://github.com/kitian616/jekyll-TeXt-theme) with reference from [AlainHsu](https://github.com/AlainHsu/AlainHsu.github.io).
 
