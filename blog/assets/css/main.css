@@ -133,16 +133,11 @@ html, body {
   text-align: center;
   text-decoration: none;
   white-space: nowrap; }
-  button:hover,
-  .button:hover {
+  #button:hover{
     background-color: #cf1ba8; }
-  button:active,
-  .button:active {
+  #button:active {
     background-color: #cf1ba8; }
-  button.disabled,
-  button:disabled,
-  .button.disabled,
-  .button:disabled {
+  #button.disabled{
     opacity: 0.5; }
   @media screen and (max-width: 480px) {
     button,
