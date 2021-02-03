@@ -21,6 +21,37 @@ permalink: /index.html
 			padding: 0;
 			border: 0;
 		}
+
+
+#button-div {  
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  position: relative; }
+  #button-div input[type="text"],
+  #button-div input[type="password"],
+  #button-div input[type="email"] {
+    width: 18em; }
+  #button-div > * {
+    margin: 0 0 0 1em; }
+  #button-div > :first-child {
+    margin: 0 0 0 0; }
+  @media screen and (max-width: 480px) {
+    #button-div {
+      -moz-flex-direction: column;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column; }
+      #button-div input[type="type"],
+      #button-div input[type="password"],
+      #button-div input[type="email"] {
+        width: 100%; }
+      #button-div > * {
+        margin: 1.25em 0 0 0; }
+
+
+}
 </style>
 <link rel="stylesheet" href="blog/assets/css/main.css" />
 </head>
@@ -33,9 +64,10 @@ permalink: /index.html
 			</header>
 		
 		<!-- Signup Form -->
+			<div id="button-div">
 				<input type="button" value="About Me"><a href="https://radiradev.github.io/about/"></a></input>
 				<input type="button" value="Blog"><a href="https://radiradev.github.io/blog/"></a></input>
-
+			<div id="button-div">
 					   
 
 		<!-- Footer -->
