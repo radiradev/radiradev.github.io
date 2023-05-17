@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Hi :wave:</h1>
+      <h1>Hi!</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -43,15 +43,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <p>
         This is my personal website and blog. I am a researcher working at CERN, applying deep learning models to neutrino experiments. I am particularly
         interested in incorporating structure and physical inductive bias into models, uncertainty-aware models and large attention based networks.
-      </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
       </p>
       {
         // only display if at least one social link is enabled
