@@ -1,7 +1,7 @@
 ---
 author: Radi Radev
 pubDatetime: 2023-05-17T17:18:00Z
-title: LXPLUS Passwordless Kerberos Authentication for VSCode (Works on Windows too)
+title: LXPLUS Passwordless Kerberos for VSCode (+ Windows)
 postSlug: lxplus-passwordless-vscode
 featured: true
 draft: false
