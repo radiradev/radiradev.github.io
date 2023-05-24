@@ -9,7 +9,7 @@ tags:
   - kerberos
 ogImage: ""
 description:
-  How to setup passwordless kerberos authentication for VSCode on the LXPLUS service at CERN and how to make it work on Windows.
+  How to set up passwordless kerberos authentication for VSCode on the LXPLUS service at CERN.
 ---
 
 ## Introduction
