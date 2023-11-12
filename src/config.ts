@@ -27,6 +27,18 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
+    name: "Google",
+    href: "https://scholar.google.com/citations?hl=en&user=EfAIpcoAAAAJ",
+    linkTitle: ` ${SITE.title} on Google Scholar`,
+    active: true,
+  },
+  {
+    name: "Mail",
+    href: "mailto:radi.radev.uk@gmail.com",
+    linkTitle: `Send an email to ${SITE.title}`,
+    active: true,
+  },
+  {
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
@@ -44,12 +56,7 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
-  {
-    name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
-  },
+
   {
     name: "Twitter",
     href: "https://github.com/satnaing/astro-paper",
