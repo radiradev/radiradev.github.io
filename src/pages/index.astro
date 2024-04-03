@@ -45,7 +45,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         This is my personal website and blog. I am a researcher working at CERN,
         applying deep learning models to neutrino experiments. I am particularly
         interested in incorporating structure and physical inductive bias into
-        models, uncertainty-aware models and large attention based networks.
+        models, tackling the simulation-data bias in particle physics and large
+        attention based networks.
       </p>
       {
         // only display if at least one social link is enabled
@@ -64,6 +65,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <h2>News</h2>
       <p mt-1>
         <ul class="mt-6 space-y-1">
+          <Datetime datetime={"2024-04"} />
+          <li>
+            <a href="https://arxiv.org/abs/2404.00180">
+              Check out our proceedings (2404.00180) on stochastic
+              differentiable simulation for neutrino physics!
+            </a>
+          </li>
           <Datetime datetime={"2023-12"} />
           <li>
             <a
